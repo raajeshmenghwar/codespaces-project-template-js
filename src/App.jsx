@@ -23,6 +23,7 @@ import "./styles.css";
  *
  * If you don't have one of the social sites listed, leave it as an empty string.
  */
+
 const siteProps = {
   name: "Rajesh Kumar",
   title: "Student | Cyber Security Geek | Blue Teamer",
@@ -33,7 +34,6 @@ const siteProps = {
   medium: "https://medium.com/@rajeshmenghwar",
   twitter: "twitter.com/raajeshmenghwar ",
 };
-
 
 const primaryColor = "#4E567E";
 const secondaryColor = "#D2F1E4";
